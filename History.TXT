@@ -1,0 +1,38 @@
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   History.TXT
+        new file:   Readme.TXT
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   Readme.TXT
+
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   History.TXT
+        new file:   Readme.TXT
+
+0c
+4b
+a6
+e2
+e6
+f7
+info
+pack
+
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   History.TXT
+        new file:   Readme.TXT
